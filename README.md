@@ -41,7 +41,7 @@ To become a confident Machine Learning Engineer who can build intelligent soluti
 
 
 
-### 🛠️ Projects I Built During for organizations solving problems within the organization
+### 🛠️ Projects I  Have Built  for organizations solving problems within the organization
 
 During my IT, I focused on solving real problems in the company using Python and basic automation tools. Some of the projects I developed include:
 
@@ -53,6 +53,10 @@ This made data collection faster, reduced errors, and improved how information w
 #### 🔹 **2. Attendance Tracking System**
 I designed an automated attendance system to make staff check-ins and data recording easier.  
 It removed the need for manual entry and made staff attendance more organized and accessible. 
+
+#### 🔹 **3. Inventory / Tools Record System**
+I worked on a system that helped the company keep better records of their tools and equipment.  
+This helped track what was available, what was in use, and reduced missing items.
 
 These solutions made daily tasks easier for the staff and increased productivity.
 
