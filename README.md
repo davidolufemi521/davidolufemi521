@@ -8,9 +8,9 @@ I build Python tools that eliminate repetitive work for businesses, and machine 
 
 ### What I Do
 
-🤖 **Automation** — I build applications that take over repetitive, time-consuming tasks so teams can focus on work that actually matters. Less burnout, lower costs, faster operations.
+ **Automation** — I build applications that take over repetitive, time-consuming tasks so teams can focus on work that actually matters. Less burnout, lower costs, faster operations.
 
-📊 **Machine Learning & Data Analysis** — I analyse datasets and build predictive models that help businesses spot patterns, understand trends, and make smarter decisions with confidence.
+ **Machine Learning & Data Analysis** — I analyse datasets and build predictive models that help businesses spot patterns, understand trends, and make smarter decisions with confidence.
 
 ---
 
