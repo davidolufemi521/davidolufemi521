@@ -1,64 +1,43 @@
-## 👋 Hi, I'm David Olufemi
+# Hi, I'm David Olufemi 👋
 
+**Python Automation Developer · ML Engineer · Data Analyst**
 
-### Machine Learning Engineer (Entry-level) | Data analysis with python | Building Real World Data Solutions
+I build Python tools that eliminate repetitive work for businesses, and machine learning models that turn raw data into decisions.
 
+---
 
-I love finding problems and figuring out how to solve them using technology.  
-I’m very passionate about learning, building, and improving myself through real-world projects.
+### What I Do
 
-### 🧠 What I’m Learning
+🤖 **Automation** — I build applications that take over repetitive, time-consuming tasks so teams can focus on work that actually matters. Less burnout, lower costs, faster operations.
 
-I'm currently diving deep into **Machine Learning algorithms** and growing my skills in:
+📊 **Machine Learning & Data Analysis** — I analyse datasets and build predictive models that help businesses spot patterns, understand trends, and make smarter decisions with confidence.
 
-- 📊 Data Analysis with Python  
-- 📚 NumPy, Pandas, Matplotlib, Seaborn  
-- 🤖 Fundamentals of Machine Learning  
-- 🧪 Practical projects that help me learn faster and better
+---
 
-### 🔥 What Drives Me
+### Tech Stack
 
-I enjoy:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-- Finding problems and exploring the best way to solve them with code  
-- Writing clean and useful Python programs  
-- Experimenting, learning new concepts, and improving my skillset  
-- Turning ideas into simple working solutions
+---
 
-### 🛠️ Tools & Technologies
+### Projects
 
-- **Python**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**  
-- **Jupyter Notebook**  
-- Basic **SQL**  
-- Beginner **Machine Learning (Scikit-learn)**
+| Project | What it does |
+|---|---|
+| [🏦 Automated Banking System](https://github.com/davidolufemi521/Automated-Python-Banking-System) | Banking simulation with auto-configured MySQL database and real-time email receipts via SMTP |
+| [🏠 Port Harcourt Real Estate AI](https://github.com/davidolufemi521/Port-Harcourt-Real-Estate-AI) | End-to-end rent prediction system — scraping, cleaning, ML model, Flask web app |
+| [💻 Laptop Price Predictor](https://github.com/davidolufemi521/laptop-price-predictor) | ML model that predicts laptop prices based on hardware specs |
 
-### 🌱 My Goal
+---
 
-To become a confident Machine Learning Engineer who can build intelligent solutions and contribute to meaningful projects.
+### Connect
 
-### 📫 Connect With Me
-- **LinkedIn:** www.linkedin.com/in/david-olufemi-243b25380  
-
-
-
-### 🛠️ Projects I  Have Built  for organizations solving problems within the organization
-
-During my IT, I focused on solving real problems in the company using Python and basic automation tools. Some of the projects I developed include:
-
-
-#### 🔹 **1. Digital Form System (Data Collection Automation)**
-I created a simple digital form that helped the company replace manual paper forms.  
-This made data collection faster, reduced errors, and improved how information was stored.
-
-#### 🔹 **2. Attendance Tracking System**
-I designed an automated attendance system to make staff check-ins and data recording easier.  
-It removed the need for manual entry and made staff attendance more organized and accessible. 
-
-#### 🔹 **3. Inventory / Tools Record System**
-I worked on a system that helped the company keep better records of their tools and equipment.  
-This helped track what was available, what was in use, and reduced missing items.
-
-These solutions made daily tasks easier for the staff and increased productivity.
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-olufemi-243b25380)
